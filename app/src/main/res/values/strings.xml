@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="empty_searchbox">Please enter a username to search</string>
+    <string name="userDetails">User Details</string>
+    <string name="userNotFound">User not found</string>
+    <string name="Something_went_wrong">Something went wrong</string>
+</resources>
